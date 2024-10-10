@@ -89,3 +89,5 @@ The model is deployed on Hugging Face for easy use:
 
 - **Link to Deployed Model**: [Model on Hugging Face Hub](https://huggingface.co/spaces/FarahMohsenSamy1/ASR-Translation)
 
+# Dependencies
+- Dependencies are listed in the requirements.txt file. 
