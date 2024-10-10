@@ -43,3 +43,35 @@ Techniques Used
 
     The model is deployed using Hugging Face Hub, providing an easy-to-use interface for inference. Hugging Face's API allows users to interact with the model directly in production environments.
     Hugging Face Spaces: The deployment process leverages Hugging Face Spaces, enabling users to test the model via a web interface.
+
+## How to Use the Notebook
+
+1. Clone this repository:
+
+    ```bash
+    git clone https://github.com/your-username/speech-recognition-translation.git
+    cd speech-recognition-translation
+    ```
+
+2. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the notebook using Jupyter:
+
+    ```bash
+    jupyter notebook speech-recognition-translation.ipynb
+    ```
+
+## Model Deployment on Hugging Face
+
+The model is deployed on Hugging Face for easy use:
+
+- **Hugging Face Hub**: The model is published on Hugging Face Hub, making it accessible for inference. Users can send requests to the model and get predictions.
+  
+- **Inference API**: The model is available via Hugging Face's Inference API, allowing integration into various applications.
+
+- **Link to Deployed Model**: [Model on Hugging Face Hub](https://huggingface.co/spaces/FarahMohsenSamy1/ASR-Translation)
+
