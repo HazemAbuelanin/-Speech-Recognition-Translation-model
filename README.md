@@ -49,7 +49,7 @@ Techniques Used
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/speech-recognition-translation.git
+    git clone https://github.com/HazemAbuelanin/Speech-Recognition-Translation-model.git
     cd speech-recognition-translation
     ```
 
