@@ -87,7 +87,7 @@ The model is deployed on Hugging Face for easy use:
   
 - **Inference API**: The model is available via Hugging Face's Inference API, allowing integration into various applications.
 
-- **Link to Deployed Model**: [Model on Hugging Face Hub](https://huggingface.co/spaces/FarahMohsenSamy1/ASR-Translation)
+- **Link to Deployed Model**: [Speech-recognition-translation](https://huggingface.co/spaces/FarahMohsenSamy1/ASR-Translation)
 
 # Dependencies
 - Dependencies are listed in the requirements.txt file. 
