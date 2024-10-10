@@ -13,7 +13,8 @@ Project Objectives:
     Simplify access to state-of-the-art models through Hugging Face integration.
     Enable seamless real-time interaction with the model via a web interface or API.
 This repository contains a Jupyter Notebook that implements a speech recognition and translation pipeline. The project focuses on recognizing spoken language and translating it into another language using state-of-the-art machine learning models and techniques.
-Overview
+
+# Overview
 
 The notebook demonstrates the following key steps:
 
