@@ -78,6 +78,11 @@ The notebook demonstrates the following key steps:
     ```bash
     jupyter notebook speech-recognition-translation.ipynb
     ```
+4. Run the notebook using Jupyter:
+
+    ```bash
+    jupyter notebook pretrained-speechrecognition.ipynb
+    ```
 
 ## Model Deployment on Hugging Face
 
