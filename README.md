@@ -89,5 +89,7 @@ The model is deployed on Hugging Face for easy use:
 
 - **Link to Deployed Model**: [Speech-recognition-translation](https://huggingface.co/spaces/FarahMohsenSamy1/ASR-Translation)
 
+- - **Link to Deployed Model**: [Speech-recognition-translation-pretrained](https://huggingface.co/spaces/FarahMohsenSamy1/ASR)
+
 # Dependencies
 - Dependencies are listed in the requirements.txt file. 
